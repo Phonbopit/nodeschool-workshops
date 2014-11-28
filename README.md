@@ -1,6 +1,6 @@
 ## Learnyounode 
 
-My Exercise from [learnyounode](https://github.com/rvagg/learnyounode)
+My Exercise from [NodeSchol.io](http://nodeschool.io/)
 
 ### Core
 
@@ -16,20 +16,3 @@ My Exercise from [learnyounode](https://github.com/rvagg/learnyounode)
 - [ ] Bytewiser
 - [ ] ExpressWorks
 - [ ] Bug Clinic
-
----
-
-### Usage
-
-#### Install
-    npm install -g learnyounode
-
-#### Start
-    learnyounode
-
-#### Run test
-    learnyounode run program.js
-
-#### Verify
-    learnyounode verify program.js
-
