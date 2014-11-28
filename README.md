@@ -2,15 +2,34 @@
 
 My Exercise from [learnyounode](https://github.com/rvagg/learnyounode)
 
-### Install
+### Core
+
+- [x] [Javascripting](/javascripting/)
+- [ ] Learnyounode
+- [ ] git-it
+- [ ] stream-adventure
+
+### Electives
+- [ ] Functional Javascript
+- [ ] Shader School
+- [ ] Level Me Up Scotty!
+- [ ] Bytewiser
+- [ ] ExpressWorks
+- [ ] Bug Clinic
+
+---
+
+### Usage
+
+#### Install
     npm install -g learnyounode
 
-### Start
+#### Start
     learnyounode
 
-### Run test
+#### Run test
     learnyounode run program.js
 
-### Verify
+#### Verify
     learnyounode verify program.js
 
