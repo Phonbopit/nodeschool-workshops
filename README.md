@@ -5,7 +5,7 @@ My Exercise from [NodeSchol.io](http://nodeschool.io/)
 ### Core
 
 - [x] [Javascripting](/javascripting/)
-- [ ] Learnyounode
+- [ ] [Learnyounode](/learnyounode/)
 - [ ] git-it
 - [ ] stream-adventure
 
