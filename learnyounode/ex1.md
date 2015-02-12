@@ -1,6 +1,6 @@
-# Ex.1 : HELLO WORLD
-LEARN YOU THE NODE.JS FOR MUCH WIN!
+Ex.1 : HELLO WORLD
 ---
+
 Write a program that prints the text "HELLO WORLD" to the console (stdout).
 
 ```js
